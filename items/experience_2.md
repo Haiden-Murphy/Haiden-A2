@@ -10,7 +10,7 @@ What was good about it?
 The main thing is that it looks great on a resume. But, it also gave me exposure to some of the inner workings of the field I might be going into in the future. That being one where I'm part of a team, designing and coding in different software.
 
 What was your favourite memory of it?
-Helping with the design portion that each job offered.
+Helping with the design portion that each job offered. I was usually on the front end and helped with related decision making.
 
 What didn't you enjoy about it?
 Having to walk all the way to my highschool which was a 45min walk. This was when I didnt yet have a car or my full license, it was rough.
