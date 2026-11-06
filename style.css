@@ -1,0 +1,17 @@
+:root {
+    --main-background: #D8C3A5;
+    --main-foreground: #343A40;
+    --accent-color: #70CFC7;
+    --section-background: #F4EFE7;
+}
+
+body {
+    background-color: var(--main-background);
+    color: var(--main-foreground);
+    font-family: 'DM Sans', sans-serif;
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Space Grotesk', sans-serif;
+    color: var(--main-foreground);
+}
