@@ -10,7 +10,7 @@ I did this right after high school, so that would have been 2022, post-pandemic.
 were still online, but some were in person, and my previous high school provided transportation 
 to make sure we got to those classes.
 
-## What was good about it?
+### What was good about it?
 I was in the program with my high school friends who took the same co-op classes as me. That was 
 probably one of the best parts; we studied together and helped each other out. Also, it was a 
 relatively short program that introduced me to secondary school.
