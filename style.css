@@ -1,9 +1,11 @@
 :root 
 {
-    --main-background: #D8C3A5;
+    --header-background: #d8c3a5;
+    --main-background: #f1e9de;
     --main-foreground: #343A40;
-    --accent-color: #70CFC7;
-    --section-background: #F4EFE7;
+    --footer-background: #d8c3a5;
+    --accent-color: #70cfc7;
+    --section-background: #f1e9de;
 }
 
 body 
@@ -21,9 +23,9 @@ h1, h2, h3, h4
 
 h1 
 {
-    font-size: 2.5rem;
-    font-weight: 700;
-    margin-bottom: 25px;
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 15px;
 }
 
 h3 
@@ -40,4 +42,46 @@ section
     max-width: 900px;
     margin: 40px auto;
     padding: 25px;
+}
+
+nav
+{
+    background-color: var(--main-foreground);
+    
+}
+
+.navbar 
+{
+    padding: 20px 35px;
+}
+
+.nav-link
+{
+    background-color: var(--accent-color);
+    color: var(--main-foreground);
+    border-radius: 6px;
+    padding: 8px 15px;
+    margin: 0 5px;
+}
+
+.nav-link:hover {
+    background-color: var(--main-foreground);
+    color: var(--accent-color);
+}
+
+header, footer
+{
+    background-color: var(--header-background);
+    margin: auto;
+    padding-bottom: 15px;
+}
+
+footer
+{
+    padding: 15px;
+}
+
+main
+{
+    background-color: var(--main-background);
 }
